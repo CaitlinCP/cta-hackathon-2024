@@ -1,8 +1,7 @@
 import googlemaps
 from datetime import datetime
+from config import SECRET_KEY
 
-
-SECRET_KEY = 'AIzaSyBez5y5bvMrNfsuVqgrOHjXGgh7Xr2nxzA'
 
 class Walking:
     def __init__(self,user_location,stop_location):
