@@ -44,7 +44,7 @@ class User:
         if autodetect and address:
             self.find_lat_long(address)
             if not self.lat or not self.long:
-                raise Exception #no valid address
+                raise Exception("No valid address") #no valid address
             else:
                 stop = self.find_closest_stop()
 
