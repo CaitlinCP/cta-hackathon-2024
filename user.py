@@ -1,6 +1,7 @@
 from geopy.geocoders import Nominatim
 from pygris.geocode import geolookup, geocode
-import Stop, Route
+from stop import Stop
+from routes import Route
 
 class User:
     def __init__(self):
@@ -24,15 +25,15 @@ class User:
 
     def find_closest_stop(self):
         route = Route(self.route)
-        stops = route.get_route_stops()
+        given_stops = route.get_route_stops()
         distances = []
-        for stop in stops:
-            stop = Stop(self.stop)
-            distance = stop.get_distance(self.lat, self.long)
+        for given_stop in given_stops:
+            given_stop = Stop(self.stop)
+            distance = given_stop.get_distance(self.lat, self.long)
             distances.append(distance)
         min_distance = min(distances)
         stop_ind = distances.index(min_distance) #if multiple stops within a thresh, implement later
-        closest_stop = stops[stop_ind]
+        closest_stop = given_stops[stop_ind]
         return closest_stop
 
     def set_inputs(self,lat=None, long=None, route=None,stop=None, autodetect=None,
@@ -44,7 +45,7 @@ class User:
         if autodetect and address:
             self.find_lat_long(address)
             if not self.lat or not self.long:
-                raise Exception #no valid address
+                raise Exception("No valid address") #no valid address
             else:
                 stop = self.find_closest_stop()
 

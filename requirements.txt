@@ -1,4 +1,6 @@
 flask
 numpy
 pandas
-geopy.geocoders
+geopy
+pygris
+matplotlib

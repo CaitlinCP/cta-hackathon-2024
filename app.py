@@ -3,10 +3,7 @@ The main app for
 """
 
 from flask import Flask, request, render_template, redirect, jsonify
-
-
-def get_nearest_stop(name):
-    pass
+from user import User
 
 app = Flask(__name__)
 
@@ -41,6 +38,7 @@ def get_nearest_stop():
         user_address=request.form.get('user_address')
         use_location=request.form.get('use_location')
         find_nearest_stop=request.form.get('find_nearest_stop')
+
     
     #TODO: Populate list of stops for a line
         ## Make an api call for the line
@@ -55,17 +53,22 @@ def get_nearest_stop():
                 'message': f'an exception occurred: f{error}'
             }
         )
+
+
+    user = User()
+    user.set_inputs(route=bus_line, address=user_address, autodetect=find_nearest_stop)
+
     
     return jsonify({
-        'bus_line': bus_line,
-        'user_address': user_address,
-        'use_location': use_location,
-        'find_nearest_stop': find_nearest_stop
+        'route': user.route,
+        'address': user.address,
+        'autodetect': user.autodetect,
+        'find_nearest_stop': find_nearest_stop,
     })
 
     #TODO: Call functions
 
-@app.route("/stop_<stop_id>")
+@app.route("/stop_time")
 def get_stop_time():
     pass
 

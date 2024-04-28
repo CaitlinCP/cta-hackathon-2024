@@ -2,7 +2,8 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from typing import List, Dict
 
-from bus import get_routes, get_vehicles, call_api, get_directions, get_all_directions, get_route_stops    
+from cta_analysis.bus import get_routes, get_vehicles, call_api, get_directions, get_all_directions, get_route_stops
+from cta_analysis import cta_secrets    
 
 class Route:
     def __init__(self, route_id: str) -> None:
@@ -54,4 +55,3 @@ class Route:
                 print(f"Stops for {direction}:")
                 for stop in stops:
                     print(f"  Stop ID: {stop['stpid']}, Stop Name: {stop['stpnm']}")
-
