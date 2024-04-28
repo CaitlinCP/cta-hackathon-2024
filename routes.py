@@ -23,11 +23,11 @@ class Route:
         if self.route_data:
             self.directions = get_directions(self.route_id)
         else:
-            print("Route data not fetched yet. Please call get_route_data.")
+            print("Please call get_route_data.")
 
     def get_stops(self):
         if not self.directions:
-            print("Directions not fetched yet. Please call fetch_directions first.")
+            print("Please call fetch_directions first.")
             return
         for direction in self.directions:
             self.stops[direction] = get_route_stops(self.route_id, direction)
@@ -37,13 +37,13 @@ class Route:
 
     def display_route_details(self):
         if not self.route_data:
-            print("Route data not available. Please fetch route data first.")
+            print("Please fetch route data first.")
         else:
             print(f"Route ID: {self.route_data['rt']}, Route Name: {self.route_data['rtnm']}")
 
     def display_directions(self):
         if not self.directions:
-            print("Please fetch directions first.")
+            print("fetch directions first.")
         else:
             print(f"Directions for Route {self.route_id}: {self.directions}")
 
@@ -55,6 +55,3 @@ class Route:
                 print(f"Stops for {direction}:")
                 for stop in stops:
                     print(f"  Stop ID: {stop['stpid']}, Stop Name: {stop['stpnm']}")
-
-#testing
-
