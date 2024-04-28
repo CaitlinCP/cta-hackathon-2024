@@ -26,9 +26,9 @@ class User:
         route = Route(self.route)
         stops = route.get_route_stops()
         distances = []
-        for stop in stops:
-            stop = Stop(self.stop)
-            distance = stop.get_distance(self.lat, self.long)
+        for given_stop in given_stops:
+            given_stop = Stop(self.stop)
+            distance = given_stop.get_distance(self.lat, self.long)
             distances.append(distance)
         min_distance = min(distances)
         stop_ind = distances.index(min_distance) #if multiple stops within a thresh, implement later
@@ -44,7 +44,7 @@ class User:
         if autodetect and address:
             self.find_lat_long(address)
             if not self.lat or not self.long:
-                raise Exception #no valid address
+                raise Exception("No valid address") #no valid address
             else:
                 stop = self.find_closest_stop()
 
