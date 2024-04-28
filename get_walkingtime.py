@@ -23,7 +23,7 @@ class Walking:
                                                 departure_time = self.start_time)
         except Exception as e:
             print(f"error {e}")
-        self.distance,self.time = direction_result[0]\
+        return direction_result[0]\
             ['legs'][0]['distance']['text'],direction_result[0]\
                 ['legs'][0]['duration']['text']
 

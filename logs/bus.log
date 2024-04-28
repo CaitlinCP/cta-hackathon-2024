@@ -363,3 +363,327 @@
 2024-04-28 17:59:49,959	INFO	 * Restarting with stat
 2024-04-28 17:59:50,467	WARNING	 * Debugger is active!
 2024-04-28 17:59:50,473	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:02:34,217	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:02:34,314	INFO	 * Restarting with stat
+2024-04-28 18:02:34,964	WARNING	 * Debugger is active!
+2024-04-28 18:02:34,970	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:04:15,967	INFO	10.150.136.55 - - [28/Apr/2024 18:04:15] "POST /nearest_stop HTTP/1.1" 200 -
+2024-04-28 18:04:34,625	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:04:34,738	INFO	 * Restarting with stat
+2024-04-28 18:04:35,397	WARNING	 * Debugger is active!
+2024-04-28 18:04:35,405	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:04:43,815	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:04:43,915	INFO	 * Restarting with stat
+2024-04-28 18:04:44,444	WARNING	 * Debugger is active!
+2024-04-28 18:04:44,450	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:05:13,742	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:05:13,840	INFO	 * Restarting with stat
+2024-04-28 18:05:14,507	WARNING	 * Debugger is active!
+2024-04-28 18:05:14,513	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:05:21,890	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:05:21,981	INFO	 * Restarting with stat
+2024-04-28 18:05:22,486	WARNING	 * Debugger is active!
+2024-04-28 18:05:22,491	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:05:49,651	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:05:49,733	INFO	 * Restarting with stat
+2024-04-28 18:05:50,454	WARNING	 * Debugger is active!
+2024-04-28 18:05:50,461	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:05:57,803	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:05:57,891	INFO	 * Restarting with stat
+2024-04-28 18:05:58,409	WARNING	 * Debugger is active!
+2024-04-28 18:05:58,415	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:06:05,785	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:06:05,886	INFO	 * Restarting with stat
+2024-04-28 18:06:06,425	WARNING	 * Debugger is active!
+2024-04-28 18:06:06,431	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:06:27,377	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/prediction.py', reloading
+2024-04-28 18:06:27,471	INFO	 * Restarting with stat
+2024-04-28 18:06:28,026	WARNING	 * Debugger is active!
+2024-04-28 18:06:28,032	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:06:46,867	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:06:46,950	INFO	 * Restarting with stat
+2024-04-28 18:06:47,462	WARNING	 * Debugger is active!
+2024-04-28 18:06:47,468	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:06:56,926	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:06:57,016	INFO	 * Restarting with stat
+2024-04-28 18:06:57,512	WARNING	 * Debugger is active!
+2024-04-28 18:06:57,518	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:07:01,734	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:07:01,820	INFO	 * Restarting with stat
+2024-04-28 18:07:02,294	WARNING	 * Debugger is active!
+2024-04-28 18:07:02,300	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:09:02,707	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 18:09:02,803	INFO	 * Restarting with stat
+2024-04-28 18:09:03,464	WARNING	 * Debugger is active!
+2024-04-28 18:09:03,470	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:09:18,104	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 18:09:18,198	INFO	 * Restarting with stat
+2024-04-28 18:09:18,733	WARNING	 * Debugger is active!
+2024-04-28 18:09:18,739	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:10:10,911	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:10:11,005	INFO	 * Restarting with stat
+2024-04-28 18:10:11,716	WARNING	 * Debugger is active!
+2024-04-28 18:10:11,724	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:10:28,452	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:10:28,539	INFO	 * Restarting with stat
+2024-04-28 18:10:29,188	WARNING	 * Debugger is active!
+2024-04-28 18:10:29,196	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:10:41,735	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:10:41,823	INFO	 * Restarting with stat
+2024-04-28 18:10:42,464	WARNING	 * Debugger is active!
+2024-04-28 18:10:42,472	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:10:52,951	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:10:53,039	INFO	 * Restarting with stat
+2024-04-28 18:10:53,542	WARNING	 * Debugger is active!
+2024-04-28 18:10:53,548	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:11:00,928	INFO	10.150.136.55 - - [28/Apr/2024 18:11:00] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 18:11:00,976	INFO	10.150.136.55 - - [28/Apr/2024 18:11:00] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 18:11:01,071	INFO	10.150.136.55 - - [28/Apr/2024 18:11:01] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 18:11:01,084	INFO	10.150.136.55 - - [28/Apr/2024 18:11:01] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 18:12:33,026	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 18:12:33,112	INFO	 * Restarting with stat
+2024-04-28 18:12:33,745	WARNING	 * Debugger is active!
+2024-04-28 18:12:33,751	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:12:37,762	WARNING	{'rt': '15314', 'dir': '1', 'msg': 'No data found for parameter'}
+2024-04-28 18:12:37,777	INFO	10.150.136.55 - - [28/Apr/2024 18:12:37] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 18:12:37,834	INFO	10.150.136.55 - - [28/Apr/2024 18:12:37] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 18:12:37,836	INFO	10.150.136.55 - - [28/Apr/2024 18:12:37] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 18:12:37,847	INFO	10.150.136.55 - - [28/Apr/2024 18:12:37] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 18:13:42,519	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:13:42,627	INFO	 * Restarting with stat
+2024-04-28 18:13:43,255	WARNING	 * Debugger is active!
+2024-04-28 18:13:43,261	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:13:46,704	WARNING	{'rt': '15314', 'dir': '1', 'msg': 'No data found for parameter'}
+2024-04-28 18:13:46,706	INFO	10.150.136.55 - - [28/Apr/2024 18:13:46] "POST /nearest_stop HTTP/1.1" 200 -
+2024-04-28 18:14:14,819	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:14:14,908	INFO	 * Restarting with stat
+2024-04-28 18:14:15,557	WARNING	 * Debugger is active!
+2024-04-28 18:14:15,563	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:14:22,508	WARNING	{'rt': '15314', 'dir': '1', 'msg': 'No data found for parameter'}
+2024-04-28 18:14:22,510	INFO	10.150.136.55 - - [28/Apr/2024 18:14:22] "POST /nearest_stop HTTP/1.1" 200 -
+2024-04-28 18:14:47,131	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:14:47,225	INFO	 * Restarting with stat
+2024-04-28 18:14:47,912	WARNING	 * Debugger is active!
+2024-04-28 18:14:47,918	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:14:53,059	WARNING	{'rt': '15314', 'dir': '1', 'msg': 'No data found for parameter'}
+2024-04-28 18:14:53,060	INFO	10.150.136.55 - - [28/Apr/2024 18:14:53] "POST /nearest_stop HTTP/1.1" 200 -
+2024-04-28 18:15:09,768	WARNING	{'rt': '15314', 'dir': '1', 'msg': 'No data found for parameter'}
+2024-04-28 18:15:09,769	INFO	10.150.136.55 - - [28/Apr/2024 18:15:09] "POST /nearest_stop HTTP/1.1" 200 -
+2024-04-28 18:15:11,935	WARNING	{'rt': '15314', 'dir': '1', 'msg': 'No data found for parameter'}
+2024-04-28 18:15:11,937	INFO	10.150.136.55 - - [28/Apr/2024 18:15:11] "POST /nearest_stop HTTP/1.1" 200 -
+2024-04-28 18:15:57,464	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:15:57,553	INFO	 * Restarting with stat
+2024-04-28 18:15:58,188	WARNING	 * Debugger is active!
+2024-04-28 18:15:58,194	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:16:02,683	WARNING	{'rt': '1', 'stpid': '15314', 'msg': 'No service scheduled'}
+2024-04-28 18:16:02,700	INFO	10.150.136.55 - - [28/Apr/2024 18:16:02] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 18:16:02,752	INFO	10.150.136.55 - - [28/Apr/2024 18:16:02] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 18:16:02,933	INFO	10.150.136.55 - - [28/Apr/2024 18:16:02] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 18:16:02,955	INFO	10.150.136.55 - - [28/Apr/2024 18:16:02] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 18:16:40,681	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:16:40,778	INFO	 * Restarting with stat
+2024-04-28 18:16:41,402	WARNING	 * Debugger is active!
+2024-04-28 18:16:41,407	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:16:44,269	WARNING	{'rt': '1', 'stpid': '15314', 'msg': 'No service scheduled'}
+2024-04-28 18:16:44,282	INFO	10.150.136.55 - - [28/Apr/2024 18:16:44] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 18:16:44,342	INFO	10.150.136.55 - - [28/Apr/2024 18:16:44] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 18:16:44,346	INFO	10.150.136.55 - - [28/Apr/2024 18:16:44] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 18:16:44,365	INFO	10.150.136.55 - - [28/Apr/2024 18:16:44] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 18:20:37,423	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 18:20:37,528	INFO	 * Restarting with stat
+2024-04-28 18:20:38,231	WARNING	 * Debugger is active!
+2024-04-28 18:20:38,237	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:21:00,126	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 18:21:00,230	INFO	 * Restarting with stat
+2024-04-28 18:21:00,782	WARNING	 * Debugger is active!
+2024-04-28 18:21:00,791	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:21:07,827	INFO	10.150.136.55 - - [28/Apr/2024 18:21:07] "GET / HTTP/1.1" 200 -
+2024-04-28 18:21:10,319	WARNING	{'rt': '1', 'stpid': '15314', 'msg': 'No service scheduled'}
+2024-04-28 18:21:10,335	INFO	10.150.136.55 - - [28/Apr/2024 18:21:10] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 18:21:10,391	INFO	10.150.136.55 - - [28/Apr/2024 18:21:10] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 18:21:10,485	INFO	10.150.136.55 - - [28/Apr/2024 18:21:10] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 18:21:10,498	INFO	10.150.136.55 - - [28/Apr/2024 18:21:10] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 18:22:20,873	WARNING	{'rt': '172', 'stpid': '16116', 'msg': 'No service scheduled'}
+2024-04-28 18:22:20,882	INFO	10.150.136.55 - - [28/Apr/2024 18:22:20] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 18:22:20,918	INFO	10.150.136.55 - - [28/Apr/2024 18:22:20] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 18:22:20,930	INFO	10.150.136.55 - - [28/Apr/2024 18:22:20] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 18:22:20,939	INFO	10.150.136.55 - - [28/Apr/2024 18:22:20] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 18:22:31,930	WARNING	{'rt': '171', 'stpid': '1520', 'msg': 'No service scheduled'}
+2024-04-28 18:22:31,947	INFO	10.150.136.55 - - [28/Apr/2024 18:22:31] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 18:22:31,994	INFO	10.150.136.55 - - [28/Apr/2024 18:22:31] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 18:22:31,995	INFO	10.150.136.55 - - [28/Apr/2024 18:22:31] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 18:22:32,008	INFO	10.150.136.55 - - [28/Apr/2024 18:22:32] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 18:22:54,827	INFO	10.150.136.55 - - [28/Apr/2024 18:22:54] "POST /nearest_stop HTTP/1.1" 200 -
+2024-04-28 18:23:27,008	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:23:27,099	INFO	 * Restarting with stat
+2024-04-28 18:23:27,710	WARNING	 * Debugger is active!
+2024-04-28 18:23:27,716	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:24:04,424	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:24:04,517	INFO	 * Restarting with stat
+2024-04-28 18:24:05,157	WARNING	 * Debugger is active!
+2024-04-28 18:24:05,168	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:24:10,639	INFO	10.150.136.55 - - [28/Apr/2024 18:24:10] "POST /nearest_stop HTTP/1.1" 200 -
+2024-04-28 18:24:33,454	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:24:33,574	INFO	 * Restarting with stat
+2024-04-28 18:24:34,218	WARNING	 * Debugger is active!
+2024-04-28 18:24:34,225	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:24:54,202	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:24:54,285	INFO	 * Restarting with stat
+2024-04-28 18:24:54,863	WARNING	 * Debugger is active!
+2024-04-28 18:24:54,868	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:25:00,092	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:25:00,193	INFO	 * Restarting with stat
+2024-04-28 18:25:00,688	WARNING	 * Debugger is active!
+2024-04-28 18:25:00,695	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:25:13,347	INFO	10.150.136.55 - - [28/Apr/2024 18:25:13] "POST /nearest_stop HTTP/1.1" 200 -
+2024-04-28 18:25:33,322	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:25:33,427	INFO	 * Restarting with stat
+2024-04-28 18:25:34,033	WARNING	 * Debugger is active!
+2024-04-28 18:25:34,039	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:25:41,906	INFO	10.150.136.55 - - [28/Apr/2024 18:25:41] "POST /nearest_stop HTTP/1.1" 200 -
+2024-04-28 18:25:45,724	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:25:45,804	INFO	 * Restarting with stat
+2024-04-28 18:25:46,467	WARNING	 * Debugger is active!
+2024-04-28 18:25:46,473	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:27:38,166	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:27:38,253	INFO	 * Restarting with stat
+2024-04-28 18:27:38,879	WARNING	 * Debugger is active!
+2024-04-28 18:27:38,886	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:27:41,030	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:27:41,127	INFO	 * Restarting with stat
+2024-04-28 18:27:41,629	WARNING	 * Debugger is active!
+2024-04-28 18:27:41,635	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:28:00,439	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:28:00,538	INFO	 * Restarting with stat
+2024-04-28 18:30:29,748	INFO	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.150.136.55:5000
+2024-04-28 18:30:29,748	INFO	[33mPress CTRL+C to quit[0m
+2024-04-28 18:30:29,748	INFO	 * Restarting with stat
+2024-04-28 18:30:30,256	WARNING	 * Debugger is active!
+2024-04-28 18:30:30,263	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:30:35,843	INFO	10.150.136.55 - - [28/Apr/2024 18:30:35] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 18:30:35,907	INFO	10.150.136.55 - - [28/Apr/2024 18:30:35] "GET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-04-28 18:30:36,015	INFO	10.150.136.55 - - [28/Apr/2024 18:30:36] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 18:30:36,043	INFO	10.150.136.55 - - [28/Apr/2024 18:30:36] "GET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-04-28 18:30:39,372	INFO	10.150.136.55 - - [28/Apr/2024 18:30:39] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 18:30:39,418	INFO	10.150.136.55 - - [28/Apr/2024 18:30:39] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 18:30:39,418	INFO	10.150.136.55 - - [28/Apr/2024 18:30:39] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 18:30:39,432	INFO	10.150.136.55 - - [28/Apr/2024 18:30:39] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 18:31:26,212	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:31:26,304	INFO	 * Restarting with stat
+2024-04-28 18:31:26,969	WARNING	 * Debugger is active!
+2024-04-28 18:31:26,975	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:31:32,104	INFO	10.150.136.55 - - [28/Apr/2024 18:31:32] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 18:31:32,160	INFO	10.150.136.55 - - [28/Apr/2024 18:31:32] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 18:31:32,160	INFO	10.150.136.55 - - [28/Apr/2024 18:31:32] "GET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-04-28 18:31:32,177	INFO	10.150.136.55 - - [28/Apr/2024 18:31:32] "GET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-04-28 18:31:54,253	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:31:54,339	INFO	 * Restarting with stat
+2024-04-28 18:31:54,991	WARNING	 * Debugger is active!
+2024-04-28 18:31:54,998	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:31:58,273	INFO	10.150.136.55 - - [28/Apr/2024 18:31:58] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 18:31:58,321	INFO	10.150.136.55 - - [28/Apr/2024 18:31:58] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 18:31:58,323	INFO	10.150.136.55 - - [28/Apr/2024 18:31:58] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 18:31:58,334	INFO	10.150.136.55 - - [28/Apr/2024 18:31:58] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 18:32:41,189	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/get_walkingtime.py', reloading
+2024-04-28 18:32:41,280	INFO	 * Restarting with stat
+2024-04-28 18:32:41,930	WARNING	 * Debugger is active!
+2024-04-28 18:32:41,936	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:32:46,159	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/get_walkingtime.py', reloading
+2024-04-28 18:32:46,243	INFO	 * Restarting with stat
+2024-04-28 18:32:46,788	WARNING	 * Debugger is active!
+2024-04-28 18:32:46,794	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:33:05,620	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/get_walkingtime.py', reloading
+2024-04-28 18:33:05,718	INFO	 * Restarting with stat
+2024-04-28 18:33:06,350	WARNING	 * Debugger is active!
+2024-04-28 18:33:06,356	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:33:07,444	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:33:07,526	INFO	 * Restarting with stat
+2024-04-28 18:33:08,048	WARNING	 * Debugger is active!
+2024-04-28 18:33:08,054	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:33:09,130	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:33:09,219	INFO	 * Restarting with stat
+2024-04-28 18:33:09,741	WARNING	 * Debugger is active!
+2024-04-28 18:33:09,747	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:33:12,926	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:33:13,020	INFO	 * Restarting with stat
+2024-04-28 18:33:13,572	WARNING	 * Debugger is active!
+2024-04-28 18:33:13,580	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:33:16,427	INFO	10.150.136.55 - - [28/Apr/2024 18:33:16] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 18:33:16,488	INFO	10.150.136.55 - - [28/Apr/2024 18:33:16] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 18:33:16,488	INFO	10.150.136.55 - - [28/Apr/2024 18:33:16] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 18:33:16,506	INFO	10.150.136.55 - - [28/Apr/2024 18:33:16] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 18:33:17,517	INFO	10.150.136.55 - - [28/Apr/2024 18:33:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-28 18:33:18,279	INFO	10.150.136.55 - - [28/Apr/2024 18:33:18] "GET / HTTP/1.1" 200 -
+2024-04-28 18:33:47,190	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:33:47,279	INFO	 * Restarting with stat
+2024-04-28 18:33:47,948	WARNING	 * Debugger is active!
+2024-04-28 18:33:47,954	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:34:05,747	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:34:05,843	INFO	 * Restarting with stat
+2024-04-28 18:34:06,365	WARNING	 * Debugger is active!
+2024-04-28 18:34:06,371	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:34:49,631	INFO	10.150.136.55 - - [28/Apr/2024 18:34:49] "GET / HTTP/1.1" 200 -
+2024-04-28 18:34:51,462	INFO	10.150.136.55 - - [28/Apr/2024 18:34:51] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 18:34:51,516	INFO	10.150.136.55 - - [28/Apr/2024 18:34:51] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 18:34:51,521	INFO	10.150.136.55 - - [28/Apr/2024 18:34:51] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 18:34:51,534	INFO	10.150.136.55 - - [28/Apr/2024 18:34:51] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 18:35:32,378	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:35:32,476	INFO	 * Restarting with stat
+2024-04-28 18:35:33,147	WARNING	 * Debugger is active!
+2024-04-28 18:35:33,154	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:35:36,707	INFO	10.150.136.55 - - [28/Apr/2024 18:35:36] "GET / HTTP/1.1" 200 -
+2024-04-28 18:35:40,011	INFO	10.150.136.55 - - [28/Apr/2024 18:35:40] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 18:35:40,062	INFO	10.150.136.55 - - [28/Apr/2024 18:35:40] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 18:35:40,258	INFO	10.150.136.55 - - [28/Apr/2024 18:35:40] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 18:35:40,282	INFO	10.150.136.55 - - [28/Apr/2024 18:35:40] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 18:39:08,027	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:39:08,137	INFO	 * Restarting with stat
+2024-04-28 18:39:08,822	WARNING	 * Debugger is active!
+2024-04-28 18:39:08,833	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:39:10,315	INFO	10.150.136.55 - - [28/Apr/2024 18:39:10] "GET / HTTP/1.1" 200 -
+2024-04-28 18:39:13,505	INFO	10.150.136.55 - - [28/Apr/2024 18:39:13] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 18:39:13,567	INFO	10.150.136.55 - - [28/Apr/2024 18:39:13] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 18:39:13,568	INFO	10.150.136.55 - - [28/Apr/2024 18:39:13] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 18:39:13,585	INFO	10.150.136.55 - - [28/Apr/2024 18:39:13] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 18:39:59,163	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:39:59,265	INFO	 * Restarting with stat
+2024-04-28 18:39:59,960	WARNING	 * Debugger is active!
+2024-04-28 18:39:59,967	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:40:02,532	INFO	10.150.136.55 - - [28/Apr/2024 18:40:02] "GET / HTTP/1.1" 200 -
+2024-04-28 18:40:04,496	INFO	10.150.136.55 - - [28/Apr/2024 18:40:04] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 18:40:04,545	INFO	10.150.136.55 - - [28/Apr/2024 18:40:04] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 18:40:04,549	INFO	10.150.136.55 - - [28/Apr/2024 18:40:04] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 18:40:04,560	INFO	10.150.136.55 - - [28/Apr/2024 18:40:04] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 18:40:44,025	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:40:44,128	INFO	 * Restarting with stat
+2024-04-28 18:40:44,769	WARNING	 * Debugger is active!
+2024-04-28 18:40:44,776	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:40:50,252	INFO	10.150.136.55 - - [28/Apr/2024 18:40:50] "GET / HTTP/1.1" 200 -
+2024-04-28 18:40:52,499	INFO	10.150.136.55 - - [28/Apr/2024 18:40:52] "POST /nearest_stop HTTP/1.1" 200 -
+2024-04-28 18:41:15,374	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:41:15,480	INFO	 * Restarting with stat
+2024-04-28 18:41:16,146	WARNING	 * Debugger is active!
+2024-04-28 18:41:16,152	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:41:39,328	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:41:39,421	INFO	 * Restarting with stat
+2024-04-28 18:41:40,028	WARNING	 * Debugger is active!
+2024-04-28 18:41:40,034	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:41:50,788	INFO	10.150.136.55 - - [28/Apr/2024 18:41:50] "POST /nearest_stop HTTP/1.1" 200 -
+2024-04-28 18:42:01,153	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:42:01,250	INFO	 * Restarting with stat
+2024-04-28 18:42:01,910	WARNING	 * Debugger is active!
+2024-04-28 18:42:01,916	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:42:04,652	INFO	10.150.136.55 - - [28/Apr/2024 18:42:04] "GET / HTTP/1.1" 200 -
+2024-04-28 18:42:07,198	INFO	10.150.136.55 - - [28/Apr/2024 18:42:07] "POST /nearest_stop HTTP/1.1" 200 -
+2024-04-28 18:42:11,465	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:42:11,555	INFO	 * Restarting with stat
+2024-04-28 18:42:12,191	WARNING	 * Debugger is active!
+2024-04-28 18:42:12,197	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 18:42:15,003	INFO	10.150.136.55 - - [28/Apr/2024 18:42:15] "POST /nearest_stop HTTP/1.1" 200 -
+2024-04-28 18:42:19,670	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 18:42:19,773	INFO	 * Restarting with stat
+2024-04-28 18:42:20,331	WARNING	 * Debugger is active!
+2024-04-28 18:42:20,338	INFO	 * Debugger PIN: 103-051-569

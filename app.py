@@ -5,6 +5,14 @@ The main app for
 from flask import Flask, request, render_template, redirect, jsonify
 from user import User
 from constants import CTA_ROUTES_LIST
+import cta_analysis.bus as bus
+from get_walkingtime import Walking
+
+def predict_time(stop_id,bus_route_id):
+    print(stop_id, bus_route_id)
+    prediction = bus.get_predictions_from_stops(str(stop_id),str(bus_route_id))
+    return prediction[0]
+
 
 app = Flask(__name__)
 
@@ -58,13 +66,30 @@ def get_nearest_stop():
 
     user = User()
     user.set_inputs(route=bus_line, address=user_address, autodetect=find_nearest_stop)
+    stop_id = user.stop['stpid']
+    stop_lat = user.stop['lat']
+    stop_lon = user.stop['lon']
+    prediction = predict_time(stop_id, bus_line)
+    print(str(user.lat) + str(user.long),'user' ,str(stop_lat)+str(stop_lon),'stop')
+    walking_time = Walking(str(user.lat) + ','+ str(user.long), str(stop_lat)+ ','+str(stop_lon))
+    w_dist, w_time = walking_time.time_distance()
+    print(w_dist)
+    print(w_time)
+    message = f"This is the predicted time until bus {bus_line} arrives: {prediction['prdctdn']} minutes. Your walking time is {w_time} minutes."
 
+    
     
     return jsonify({
         'route': user.route,
         'address': user.address,
         'autodetect': user.autodetect,
         'find_nearest_stop': find_nearest_stop,
+        'user_lat': stop_lat,
+        'user_long': stop_lon,
+        'user_stop': stop_id,
+        'message': message,
+        'walking_time': w_time,
+        'walking_dist': w_dist
     })
 
     #TODO: Call functions
