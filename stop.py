@@ -16,7 +16,9 @@ def haversine_distance(location1,location2):
 
     :return: distance in miles
     """
-    lat1, lon1, lat2, lon2 = location1,location2
+    #print(location1,location2,'printing out locay')
+    lat1, lon1= location1
+    lat2, lon2 =location2
     def deg_to_rad(deg):
         return deg * math.pi / 180
     
@@ -35,9 +37,9 @@ def haversine_distance(location1,location2):
 
 class Stop:
     def __init__(self,id,name,stop_location):
-        stop_id = id
-        stop_name = name 
-        stop_location = stop_location
+        self.stop_id = id
+        self.stop_name = name 
+        self.stop_location = stop_location
         
     def get_distance(self,dist_location):
         distance = haversine_distance(self.stop_location,dist_location)

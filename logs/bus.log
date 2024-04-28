@@ -35,3 +35,331 @@
 2024-04-28 17:03:38,116	INFO	 * Restarting with stat
 2024-04-28 17:03:38,600	WARNING	 * Debugger is active!
 2024-04-28 17:03:38,606	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:09:52,412	WARNING	 * Debugger is active!
+2024-04-28 17:09:52,417	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:10:01,319	INFO	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.150.136.55:5000
+2024-04-28 17:10:01,319	INFO	[33mPress CTRL+C to quit[0m
+2024-04-28 17:10:01,319	INFO	 * Restarting with stat
+2024-04-28 17:10:01,816	WARNING	 * Debugger is active!
+2024-04-28 17:10:01,824	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:10:05,577	INFO	10.150.136.55 - - [28/Apr/2024 17:10:05] "GET / HTTP/1.1" 200 -
+2024-04-28 17:10:08,051	INFO	10.150.136.55 - - [28/Apr/2024 17:10:08] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:10:08,101	INFO	10.150.136.55 - - [28/Apr/2024 17:10:08] "GET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-04-28 17:10:08,356	INFO	10.150.136.55 - - [28/Apr/2024 17:10:08] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:10:08,374	INFO	10.150.136.55 - - [28/Apr/2024 17:10:08] "GET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-04-28 17:10:22,177	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 17:10:22,263	INFO	 * Restarting with stat
+2024-04-28 17:10:22,849	WARNING	 * Debugger is active!
+2024-04-28 17:10:22,855	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:10:39,897	INFO	10.150.136.55 - - [28/Apr/2024 17:10:39] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:10:39,960	INFO	10.150.136.55 - - [28/Apr/2024 17:10:39] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 17:10:39,962	INFO	10.150.136.55 - - [28/Apr/2024 17:10:39] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:10:39,973	INFO	10.150.136.55 - - [28/Apr/2024 17:10:39] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 17:10:57,697	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:10:57,789	INFO	 * Restarting with stat
+2024-04-28 17:10:58,440	WARNING	 * Debugger is active!
+2024-04-28 17:10:58,447	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:10:59,542	INFO	10.150.136.55 - - [28/Apr/2024 17:10:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-28 17:11:01,017	INFO	10.150.136.55 - - [28/Apr/2024 17:11:01] "GET / HTTP/1.1" 200 -
+2024-04-28 17:11:01,051	INFO	10.150.136.55 - - [28/Apr/2024 17:11:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-28 17:11:05,435	WARNING	{'msg': 'Invalid API access key supplied'}
+2024-04-28 17:11:05,450	INFO	10.150.136.55 - - [28/Apr/2024 17:11:05] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:11:05,513	INFO	10.150.136.55 - - [28/Apr/2024 17:11:05] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 17:11:05,513	INFO	10.150.136.55 - - [28/Apr/2024 17:11:05] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:11:05,526	INFO	10.150.136.55 - - [28/Apr/2024 17:11:05] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 17:11:39,284	WARNING	{'msg': 'Invalid API access key supplied'}
+2024-04-28 17:11:39,292	INFO	10.150.136.55 - - [28/Apr/2024 17:11:39] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:11:39,328	INFO	10.150.136.55 - - [28/Apr/2024 17:11:39] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 17:11:39,328	INFO	10.150.136.55 - - [28/Apr/2024 17:11:39] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:11:39,351	INFO	10.150.136.55 - - [28/Apr/2024 17:11:39] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 17:12:41,285	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:12:41,371	INFO	 * Restarting with stat
+2024-04-28 17:12:42,029	WARNING	 * Debugger is active!
+2024-04-28 17:12:42,038	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:12:51,773	INFO	10.150.136.55 - - [28/Apr/2024 17:12:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-28 17:12:52,619	INFO	10.150.136.55 - - [28/Apr/2024 17:12:52] "GET / HTTP/1.1" 200 -
+2024-04-28 17:12:52,672	INFO	10.150.136.55 - - [28/Apr/2024 17:12:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-28 17:12:57,903	WARNING	{'msg': 'Invalid API access key supplied'}
+2024-04-28 17:12:57,927	INFO	10.150.136.55 - - [28/Apr/2024 17:12:57] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:12:57,977	INFO	10.150.136.55 - - [28/Apr/2024 17:12:57] "GET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-04-28 17:12:57,978	INFO	10.150.136.55 - - [28/Apr/2024 17:12:57] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:12:57,989	INFO	10.150.136.55 - - [28/Apr/2024 17:12:57] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 17:14:29,709	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:14:29,799	INFO	 * Restarting with stat
+2024-04-28 17:14:30,458	WARNING	 * Debugger is active!
+2024-04-28 17:14:30,464	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:15:03,842	WARNING	{'msg': 'Invalid API access key supplied'}
+2024-04-28 17:15:03,856	INFO	10.150.136.55 - - [28/Apr/2024 17:15:03] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:15:03,923	INFO	10.150.136.55 - - [28/Apr/2024 17:15:03] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 17:15:03,923	INFO	10.150.136.55 - - [28/Apr/2024 17:15:03] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:15:03,936	INFO	10.150.136.55 - - [28/Apr/2024 17:15:03] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 17:15:44,398	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:15:44,494	INFO	 * Restarting with stat
+2024-04-28 17:15:45,127	WARNING	 * Debugger is active!
+2024-04-28 17:15:45,133	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:18:58,928	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 17:18:59,036	INFO	 * Restarting with stat
+2024-04-28 17:18:59,705	WARNING	 * Debugger is active!
+2024-04-28 17:18:59,725	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:19:45,977	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 17:19:46,071	INFO	 * Restarting with stat
+2024-04-28 17:20:20,320	INFO	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.150.136.55:5000
+2024-04-28 17:20:20,320	INFO	[33mPress CTRL+C to quit[0m
+2024-04-28 17:20:20,320	INFO	 * Restarting with stat
+2024-04-28 17:20:20,836	WARNING	 * Debugger is active!
+2024-04-28 17:20:20,842	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:20:31,956	WARNING	{'msg': 'Invalid API access key supplied'}
+2024-04-28 17:20:31,970	INFO	10.150.136.55 - - [28/Apr/2024 17:20:31] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:20:32,040	INFO	10.150.136.55 - - [28/Apr/2024 17:20:32] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 17:20:32,154	INFO	10.150.136.55 - - [28/Apr/2024 17:20:32] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:20:32,168	INFO	10.150.136.55 - - [28/Apr/2024 17:20:32] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 17:21:47,743	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/constants.py', reloading
+2024-04-28 17:21:47,834	INFO	 * Restarting with stat
+2024-04-28 17:22:15,080	INFO	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.150.136.55:5000
+2024-04-28 17:22:15,081	INFO	[33mPress CTRL+C to quit[0m
+2024-04-28 17:22:15,081	INFO	 * Restarting with stat
+2024-04-28 17:22:15,587	WARNING	 * Debugger is active!
+2024-04-28 17:22:15,594	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:22:22,095	INFO	10.150.136.55 - - [28/Apr/2024 17:22:22] "GET / HTTP/1.1" 200 -
+2024-04-28 17:22:22,147	INFO	10.150.136.55 - - [28/Apr/2024 17:22:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-28 17:22:30,226	WARNING	{'msg': 'Invalid API access key supplied'}
+2024-04-28 17:22:30,247	INFO	10.150.136.55 - - [28/Apr/2024 17:22:30] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:22:30,303	INFO	10.150.136.55 - - [28/Apr/2024 17:22:30] "GET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-04-28 17:22:30,304	INFO	10.150.136.55 - - [28/Apr/2024 17:22:30] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:22:30,316	INFO	10.150.136.55 - - [28/Apr/2024 17:22:30] "GET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-04-28 17:28:13,549	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:28:13,652	INFO	 * Restarting with stat
+2024-04-28 17:28:14,337	WARNING	 * Debugger is active!
+2024-04-28 17:28:14,344	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:28:21,028	INFO	10.150.136.55 - - [28/Apr/2024 17:28:21] "GET / HTTP/1.1" 200 -
+2024-04-28 17:28:21,087	INFO	10.150.136.55 - - [28/Apr/2024 17:28:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-28 17:28:27,267	WARNING	{'msg': 'Invalid API access key supplied'}
+2024-04-28 17:28:27,273	INFO	10.150.136.55 - - [28/Apr/2024 17:28:27] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:28:27,322	INFO	10.150.136.55 - - [28/Apr/2024 17:28:27] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 17:28:27,429	INFO	10.150.136.55 - - [28/Apr/2024 17:28:27] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:28:27,443	INFO	10.150.136.55 - - [28/Apr/2024 17:28:27] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 17:29:35,210	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/routes.py', reloading
+2024-04-28 17:29:35,305	INFO	 * Restarting with stat
+2024-04-28 17:29:35,946	WARNING	 * Debugger is active!
+2024-04-28 17:29:35,954	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:29:42,314	INFO	10.150.136.55 - - [28/Apr/2024 17:29:42] "GET / HTTP/1.1" 200 -
+2024-04-28 17:29:42,358	INFO	10.150.136.55 - - [28/Apr/2024 17:29:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-28 17:29:48,104	WARNING	{'msg': 'Invalid API access key supplied'}
+2024-04-28 17:29:48,115	INFO	10.150.136.55 - - [28/Apr/2024 17:29:48] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:29:48,162	INFO	10.150.136.55 - - [28/Apr/2024 17:29:48] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 17:29:48,166	INFO	10.150.136.55 - - [28/Apr/2024 17:29:48] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:29:48,178	INFO	10.150.136.55 - - [28/Apr/2024 17:29:48] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 17:31:47,921	INFO	10.150.136.55 - - [28/Apr/2024 17:31:47] "GET / HTTP/1.1" 200 -
+2024-04-28 17:31:47,964	INFO	10.150.136.55 - - [28/Apr/2024 17:31:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-28 17:31:53,832	WARNING	{'msg': 'Invalid API access key supplied'}
+2024-04-28 17:31:53,836	INFO	10.150.136.55 - - [28/Apr/2024 17:31:53] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:31:53,881	INFO	10.150.136.55 - - [28/Apr/2024 17:31:53] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 17:31:53,881	INFO	10.150.136.55 - - [28/Apr/2024 17:31:53] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:31:53,911	INFO	10.150.136.55 - - [28/Apr/2024 17:31:53] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 17:33:04,910	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/.venv/lib/python3.11/site-packages/flask/app.py', reloading
+2024-04-28 17:33:05,007	INFO	 * Restarting with stat
+2024-04-28 17:33:05,730	WARNING	 * Debugger is active!
+2024-04-28 17:33:05,737	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:33:51,021	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:33:51,107	INFO	 * Restarting with stat
+2024-04-28 17:33:51,804	WARNING	 * Debugger is active!
+2024-04-28 17:33:51,812	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:36:04,647	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:36:04,739	INFO	 * Restarting with stat
+2024-04-28 17:36:05,381	WARNING	 * Debugger is active!
+2024-04-28 17:36:05,390	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:37:41,629	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:37:41,721	INFO	 * Restarting with stat
+2024-04-28 17:37:42,350	WARNING	 * Debugger is active!
+2024-04-28 17:37:42,358	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:37:59,638	INFO	10.150.136.55 - - [28/Apr/2024 17:37:59] "GET / HTTP/1.1" 200 -
+2024-04-28 17:37:59,684	INFO	10.150.136.55 - - [28/Apr/2024 17:37:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-28 17:38:05,174	INFO	10.150.136.55 - - [28/Apr/2024 17:38:05] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:38:05,227	INFO	10.150.136.55 - - [28/Apr/2024 17:38:05] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 17:38:05,582	INFO	10.150.136.55 - - [28/Apr/2024 17:38:05] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:38:05,595	INFO	10.150.136.55 - - [28/Apr/2024 17:38:05] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 17:40:15,705	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:40:15,799	INFO	 * Restarting with stat
+2024-04-28 17:40:16,461	WARNING	 * Debugger is active!
+2024-04-28 17:40:16,468	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:40:22,794	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:40:22,881	INFO	 * Restarting with stat
+2024-04-28 17:40:23,368	WARNING	 * Debugger is active!
+2024-04-28 17:40:23,374	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:40:28,563	INFO	10.150.136.55 - - [28/Apr/2024 17:40:28] "GET / HTTP/1.1" 200 -
+2024-04-28 17:40:28,614	INFO	10.150.136.55 - - [28/Apr/2024 17:40:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-28 17:40:34,327	INFO	10.150.136.55 - - [28/Apr/2024 17:40:34] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:40:34,380	INFO	10.150.136.55 - - [28/Apr/2024 17:40:34] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 17:40:34,382	INFO	10.150.136.55 - - [28/Apr/2024 17:40:34] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:40:34,392	INFO	10.150.136.55 - - [28/Apr/2024 17:40:34] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 17:42:13,676	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/routes.py', reloading
+2024-04-28 17:42:13,779	INFO	 * Restarting with stat
+2024-04-28 17:42:14,447	WARNING	 * Debugger is active!
+2024-04-28 17:42:14,453	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:42:48,046	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/routes.py', reloading
+2024-04-28 17:42:48,161	INFO	 * Restarting with stat
+2024-04-28 17:42:48,824	WARNING	 * Debugger is active!
+2024-04-28 17:42:48,832	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:42:58,285	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:42:58,369	INFO	 * Restarting with stat
+2024-04-28 17:42:58,980	WARNING	 * Debugger is active!
+2024-04-28 17:42:58,986	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:43:04,160	INFO	10.150.136.55 - - [28/Apr/2024 17:43:04] "GET / HTTP/1.1" 200 -
+2024-04-28 17:43:04,201	INFO	10.150.136.55 - - [28/Apr/2024 17:43:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-28 17:43:10,295	INFO	10.150.136.55 - - [28/Apr/2024 17:43:10] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:43:10,348	INFO	10.150.136.55 - - [28/Apr/2024 17:43:10] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 17:43:10,489	INFO	10.150.136.55 - - [28/Apr/2024 17:43:10] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:43:10,513	INFO	10.150.136.55 - - [28/Apr/2024 17:43:10] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 17:43:57,886	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/routes.py', reloading
+2024-04-28 17:43:57,975	INFO	 * Restarting with stat
+2024-04-28 17:43:58,723	WARNING	 * Debugger is active!
+2024-04-28 17:43:58,731	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:44:54,208	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/routes.py', reloading
+2024-04-28 17:44:54,293	INFO	 * Restarting with stat
+2024-04-28 17:44:54,857	WARNING	 * Debugger is active!
+2024-04-28 17:44:54,863	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:44:58,050	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:44:58,144	INFO	 * Restarting with stat
+2024-04-28 17:44:58,659	WARNING	 * Debugger is active!
+2024-04-28 17:44:58,665	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:45:03,774	INFO	10.150.136.55 - - [28/Apr/2024 17:45:03] "GET / HTTP/1.1" 200 -
+2024-04-28 17:45:05,773	INFO	10.150.136.55 - - [28/Apr/2024 17:45:05] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:45:05,824	INFO	10.150.136.55 - - [28/Apr/2024 17:45:05] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 17:45:05,828	INFO	10.150.136.55 - - [28/Apr/2024 17:45:05] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:45:05,839	INFO	10.150.136.55 - - [28/Apr/2024 17:45:05] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 17:46:53,869	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:46:53,965	INFO	 * Restarting with stat
+2024-04-28 17:46:54,626	WARNING	 * Debugger is active!
+2024-04-28 17:46:54,634	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:47:10,362	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:47:10,449	INFO	 * Restarting with stat
+2024-04-28 17:47:11,071	WARNING	 * Debugger is active!
+2024-04-28 17:47:11,079	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:47:12,639	INFO	10.150.136.55 - - [28/Apr/2024 17:47:12] "GET / HTTP/1.1" 200 -
+2024-04-28 17:47:14,488	INFO	10.150.136.55 - - [28/Apr/2024 17:47:14] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:47:14,542	INFO	10.150.136.55 - - [28/Apr/2024 17:47:14] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 17:47:14,542	INFO	10.150.136.55 - - [28/Apr/2024 17:47:14] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:47:14,555	INFO	10.150.136.55 - - [28/Apr/2024 17:47:14] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 17:47:28,020	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:47:28,114	INFO	 * Restarting with stat
+2024-04-28 17:47:28,772	WARNING	 * Debugger is active!
+2024-04-28 17:47:28,778	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:47:29,930	INFO	10.150.136.55 - - [28/Apr/2024 17:47:29] "GET / HTTP/1.1" 200 -
+2024-04-28 17:47:31,359	INFO	10.150.136.55 - - [28/Apr/2024 17:47:31] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:47:31,414	INFO	10.150.136.55 - - [28/Apr/2024 17:47:31] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:47:31,415	INFO	10.150.136.55 - - [28/Apr/2024 17:47:31] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 17:47:31,435	INFO	10.150.136.55 - - [28/Apr/2024 17:47:31] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 17:48:17,141	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/stop.py', reloading
+2024-04-28 17:48:17,226	INFO	 * Restarting with stat
+2024-04-28 17:48:17,853	WARNING	 * Debugger is active!
+2024-04-28 17:48:17,860	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:48:20,010	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/stop.py', reloading
+2024-04-28 17:48:20,095	INFO	 * Restarting with stat
+2024-04-28 17:48:20,612	WARNING	 * Debugger is active!
+2024-04-28 17:48:20,623	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:48:39,339	INFO	10.150.136.55 - - [28/Apr/2024 17:48:39] "GET / HTTP/1.1" 200 -
+2024-04-28 17:48:40,962	INFO	10.150.136.55 - - [28/Apr/2024 17:48:40] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:48:41,013	INFO	10.150.136.55 - - [28/Apr/2024 17:48:41] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 17:48:41,179	INFO	10.150.136.55 - - [28/Apr/2024 17:48:41] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:48:41,205	INFO	10.150.136.55 - - [28/Apr/2024 17:48:41] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 17:50:16,062	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/stop.py', reloading
+2024-04-28 17:50:16,159	INFO	 * Restarting with stat
+2024-04-28 17:50:16,911	WARNING	 * Debugger is active!
+2024-04-28 17:50:16,919	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:50:23,227	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:50:23,320	INFO	 * Restarting with stat
+2024-04-28 17:50:39,138	INFO	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.150.136.55:5000
+2024-04-28 17:50:39,139	INFO	[33mPress CTRL+C to quit[0m
+2024-04-28 17:50:39,139	INFO	 * Restarting with stat
+2024-04-28 17:50:39,664	WARNING	 * Debugger is active!
+2024-04-28 17:50:39,670	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:50:42,484	INFO	10.150.136.55 - - [28/Apr/2024 17:50:42] "GET / HTTP/1.1" 200 -
+2024-04-28 17:50:44,955	INFO	10.150.136.55 - - [28/Apr/2024 17:50:44] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:50:44,999	INFO	10.150.136.55 - - [28/Apr/2024 17:50:44] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 17:50:45,000	INFO	10.150.136.55 - - [28/Apr/2024 17:50:45] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:50:45,010	INFO	10.150.136.55 - - [28/Apr/2024 17:50:45] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 17:51:33,157	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/stop.py', reloading
+2024-04-28 17:51:33,256	INFO	 * Restarting with stat
+2024-04-28 17:51:33,868	WARNING	 * Debugger is active!
+2024-04-28 17:51:33,874	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:51:43,264	INFO	10.150.136.55 - - [28/Apr/2024 17:51:43] "GET / HTTP/1.1" 200 -
+2024-04-28 17:51:44,600	INFO	10.150.136.55 - - [28/Apr/2024 17:51:44] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:51:44,653	INFO	10.150.136.55 - - [28/Apr/2024 17:51:44] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 17:51:44,654	INFO	10.150.136.55 - - [28/Apr/2024 17:51:44] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:51:44,668	INFO	10.150.136.55 - - [28/Apr/2024 17:51:44] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 17:52:37,056	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 17:52:37,177	INFO	 * Restarting with stat
+2024-04-28 17:52:37,842	WARNING	 * Debugger is active!
+2024-04-28 17:52:37,850	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:53:18,624	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:53:18,712	INFO	 * Restarting with stat
+2024-04-28 17:53:19,326	WARNING	 * Debugger is active!
+2024-04-28 17:53:19,331	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:53:35,051	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:53:35,151	INFO	 * Restarting with stat
+2024-04-28 17:53:35,850	WARNING	 * Debugger is active!
+2024-04-28 17:53:35,857	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:53:37,852	INFO	10.150.136.55 - - [28/Apr/2024 17:53:37] "GET / HTTP/1.1" 200 -
+2024-04-28 17:53:38,750	INFO	10.150.136.55 - - [28/Apr/2024 17:53:38] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:53:38,792	INFO	10.150.136.55 - - [28/Apr/2024 17:53:38] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 17:53:38,793	INFO	10.150.136.55 - - [28/Apr/2024 17:53:38] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:53:38,805	INFO	10.150.136.55 - - [28/Apr/2024 17:53:38] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 17:54:43,142	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:54:43,233	INFO	 * Restarting with stat
+2024-04-28 17:54:43,962	WARNING	 * Debugger is active!
+2024-04-28 17:54:43,968	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:54:49,224	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:54:49,314	INFO	 * Restarting with stat
+2024-04-28 17:54:49,856	WARNING	 * Debugger is active!
+2024-04-28 17:54:49,862	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:56:03,187	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:56:03,282	INFO	 * Restarting with stat
+2024-04-28 17:56:03,943	WARNING	 * Debugger is active!
+2024-04-28 17:56:03,950	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:56:18,040	INFO	10.150.136.55 - - [28/Apr/2024 17:56:18] "GET / HTTP/1.1" 200 -
+2024-04-28 17:56:19,495	INFO	10.150.136.55 - - [28/Apr/2024 17:56:19] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:56:19,551	INFO	10.150.136.55 - - [28/Apr/2024 17:56:19] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 17:56:19,638	INFO	10.150.136.55 - - [28/Apr/2024 17:56:19] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:56:19,652	INFO	10.150.136.55 - - [28/Apr/2024 17:56:19] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 17:57:17,281	INFO	10.150.136.55 - - [28/Apr/2024 17:57:17] "[35m[1mPOST /nearest_stop HTTP/1.1[0m" 500 -
+2024-04-28 17:57:17,331	INFO	10.150.136.55 - - [28/Apr/2024 17:57:17] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-28 17:57:17,339	INFO	10.150.136.55 - - [28/Apr/2024 17:57:17] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-28 17:57:17,366	INFO	10.150.136.55 - - [28/Apr/2024 17:57:17] "[36mGET /nearest_stop?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-28 17:57:46,842	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:57:46,928	INFO	 * Restarting with stat
+2024-04-28 17:57:47,552	WARNING	 * Debugger is active!
+2024-04-28 17:57:47,561	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:57:50,329	INFO	10.150.136.55 - - [28/Apr/2024 17:57:50] "GET / HTTP/1.1" 200 -
+2024-04-28 17:57:51,936	INFO	10.150.136.55 - - [28/Apr/2024 17:57:51] "POST /nearest_stop HTTP/1.1" 200 -
+2024-04-28 17:58:33,908	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/stop.py', reloading
+2024-04-28 17:58:34,016	INFO	 * Restarting with stat
+2024-04-28 17:58:34,680	WARNING	 * Debugger is active!
+2024-04-28 17:58:34,689	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:58:42,055	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/routes.py', reloading
+2024-04-28 17:58:42,137	INFO	 * Restarting with stat
+2024-04-28 17:58:42,661	WARNING	 * Debugger is active!
+2024-04-28 17:58:42,667	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:58:54,189	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/user.py', reloading
+2024-04-28 17:58:54,281	INFO	 * Restarting with stat
+2024-04-28 17:58:54,780	WARNING	 * Debugger is active!
+2024-04-28 17:58:54,786	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:59:45,971	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/get_walkingtime.py', reloading
+2024-04-28 17:59:46,065	INFO	 * Restarting with stat
+2024-04-28 17:59:46,678	WARNING	 * Debugger is active!
+2024-04-28 17:59:46,684	INFO	 * Debugger PIN: 103-051-569
+2024-04-28 17:59:49,872	INFO	 * Detected change in '/Users/caitlin/MSCAPP/cta-hackathon-2024/app.py', reloading
+2024-04-28 17:59:49,959	INFO	 * Restarting with stat
+2024-04-28 17:59:50,467	WARNING	 * Debugger is active!
+2024-04-28 17:59:50,473	INFO	 * Debugger PIN: 103-051-569

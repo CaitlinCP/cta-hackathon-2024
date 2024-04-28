@@ -4,6 +4,7 @@ The main app for
 
 from flask import Flask, request, render_template, redirect, jsonify
 from user import User
+from constants import CTA_ROUTES_LIST
 
 app = Flask(__name__)
 
@@ -11,7 +12,7 @@ app = Flask(__name__)
 def get_route_input():
 
     #TODO: Populate bus lines from dictionary
-    bus_lines=['171','172']
+    bus_lines=CTA_ROUTES_LIST
 
     try:
         bus_info = {

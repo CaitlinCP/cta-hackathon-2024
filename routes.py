@@ -4,33 +4,35 @@ from typing import List, Dict
 
 from cta_analysis.bus import get_routes, get_vehicles, call_api, get_directions, get_all_directions, get_route_stops
 from cta_analysis import cta_secrets    
+direction = 'Northbound'
 
 class Route:
     def __init__(self, route_id: str) -> None:
         self.route_id = route_id
         self.route_data = None
-        self.directions = []
+        self.directions = direction
         self.stops = {}
 
     def get_route_data(self):
         all_routes = get_routes()
         for route in all_routes:
+            #print(route,'printing route within routes.py')
             if route['rt'] == self.route_id:
                 self.route_data = route
                 break
 
-    def get_directions(self):
-        if self.route_data:
-            self.directions = get_directions(self.route_id)
-        else:
-            print("Please call get_route_data.")
+    # def get_directions(self):
+    #     if self.route_data:
+    #         self.directions = get_directions(self.route_id)
+    #     else:
+    #         print("Please call get_route_data.")
 
     def get_stops(self):
-        if not self.directions:
-            print("Please call fetch_directions first.")
-            return
-        for direction in self.directions:
-            self.stops[direction] = get_route_stops(self.route_id, direction)
+        # if not self.directions:
+        #     print("Please call fetch_directions first.")
+        #     return
+        # for direction in self.directions:
+        self.stops = get_route_stops(self.route_id, self.directions)
 
 
     #displays info based on data
