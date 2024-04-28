@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+
+<body>
+    <form id="line_select_form" action="nearest_stop" method="post" enctype="multipart/form-data">
+        <div id="bus line">
+        <p>Pick a bus line</p>
+        <select name="bus_line" method="GET" action="/">
+            <option value="{{bus_lines[0]}}" selected>{{bus_lines[0]}}</option>
+            {% for bus_line in bus_lines[1:] %}
+              <option value="{{bus_line}}">{{bus_line}}</option>
+            {% endfor %}
+        </select>
+        </div>
+        <p>Put in your address:</p>
+        <div id="address input">
+            <input name="user_address">
+        </div>
+        <div>
+            <input type="checkbox" name="use_location" value="True">
+            <label for="use location">Use My Location</label>
+        </div>
+        <div>
+            <input type="checkbox" name="find_nearest_stop" value="True">
+            <label for="find_nearest_stop">Find My Nearest Stop</label>
+        </div>
+        <!--Source: https://www.w3schools.com/tags/att_input_required.asp -->
+        <input type="submit" value="Select Bus Line" />
+    </form>
+</body>
+</html>
