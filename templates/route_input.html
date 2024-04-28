@@ -6,7 +6,7 @@
 </head>
 
 <body>
-    <form id="line_select_form" action="nearest_stop" method="get" enctype="multipart/form-data">
+    <form id="line_select_form" action="nearest_stop" method="post" enctype="multipart/form-data">
         <div id="bus line">
         <p>Pick a bus line</p>
         <select name="bus_line" method="GET" action="/">
@@ -18,11 +18,15 @@
         </div>
         <p>Put in your address:</p>
         <div id="address input">
-            <input name="user_address">Your Address</input>
+            <input name="user_address">
         </div>
         <div>
             <input type="checkbox" name="use_location" value="True">
             <label for="use location">Use My Location</label>
+        </div>
+        <div>
+            <input type="checkbox" name="find_nearest_stop" value="True">
+            <label for="find_nearest_stop">Find My Nearest Stop</label>
         </div>
         <!--Source: https://www.w3schools.com/tags/att_input_required.asp -->
         <input type="submit" value="Select Bus Line" />
